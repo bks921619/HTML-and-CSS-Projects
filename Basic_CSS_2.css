@@ -1,0 +1,12 @@
+p{
+    color: purple; wh
+	background: red;
+	font-weight: bold;
+	text-align: center;
+}
+.purple-text-with-white-shadow{
+  text-shadow: 1px 1px 2px black, 0 0 1em white, 0 0 0.2em white;
+  color: purple;
+  font: 1.5em Georgia, serif;
+}
+<p class="purple-text-with-white-shadow">DE OPRESSO LIBER</p>

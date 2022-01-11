@@ -1,0 +1,9 @@
+1. Create file in HTML-and-CSS-Projects folder
+
+2. Work on the assignment as needed
+
+3. Open GitHub desktop
+
+4. Commit/Push Origin
+
+5. Submit link to LMS
